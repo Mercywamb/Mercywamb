@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercywamb
 - 👀 I’m interested in programing...
-- 🌱 I’m currently learning ..data science.
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on .any project..
 - 📫 How to reach me ...
 
